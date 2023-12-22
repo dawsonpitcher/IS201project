@@ -1,0 +1,17 @@
+.defeat-text-size {
+    font-size: 1.2em;
+  }
+  .defeat-text-color {
+    color: rgb(38, 31, 31);
+  }
+  .font-change {
+    font-family: "Arial", sans-serif;
+  }
+  .top-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .center-text {
+    text-align: center;
+  }
